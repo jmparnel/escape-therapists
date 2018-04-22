@@ -1,0 +1,21 @@
+1st group Rating
+2nd group Difficulty
+3rd group Fear
+4th group Location
+5th group Company
+6th group Room Name
+7-inf group Text
+
+{(\[.*?\])\s*(\[.*?\])\s*(\[.*?\])\s*(\[.*?\])\s*(\[.*?\])\s*(\[.*?\])}\s*({.*})\s*({.*})\s*({.*})\s*({.*})\s*({.*})
+
+{[10***][5][5][1][1][Room Name]}
+
+{1lorem ipsum}
+
+{2lorem ipsum}
+
+{3lorem ipsum}
+
+{4lorem ipsum}
+
+{5lorem ipsum}
