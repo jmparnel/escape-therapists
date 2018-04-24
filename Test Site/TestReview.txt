@@ -1,0 +1,22 @@
+1st group Rating
+2nd group Difficulty
+3rd group Fear
+4th group Location
+5th group Company
+6th group Room Name
+7th group number of players
+8th group price
+9-13 group Text
+{(\[.*?\])\s*(\[.*?\])\s*(\[.*?\])\s*(\[.*?\])\s*(\[.*?\])\s*(\[.*?\])\s*(\[.*?\])\s*(\[.*?\])}\s*({.*})\s*({.*})\s*({.*})\s*({.*})\s*({.*})
+
+{[10***][5][5][5517 Santa Monica Boulevard, (Entrance from the back alley), Los Angeles, CA 90038][1][Red Giant][2-6][$59.50-$36.50]}
+
+{All your life, the Pink Pyramid has stood as a testament to the ancients who built it and the civilization that once stood. Your elders have told you stories about the treasure that lies within, though none who have ventured after it have ever come back the same. As a child you dreamed of being the first to find The Red Giant, the most valuable ruby in the world. Now, you, and your crack team of experts, stand at the mouth of the tomb that will either give you what you've always wanted or doom you for eternity... How far are you willing to go to find The Red Giant!}
+
+{The props and enviroment were awesome!}
+
+{The puzzles were pretty simple scavenger type!}
+
+{Service was awesome!}
+
+{Overall Experience was Awesome!}
