@@ -4,18 +4,28 @@
 4th group Location
 5th group Company
 6th group Room Name
-7-inf group Text
+7th group number of players
+8th group price
+9-13 group Text
 
-{(\[.*?\])\s*(\[.*?\])\s*(\[.*?\])\s*(\[.*?\])\s*(\[.*?\])\s*(\[.*?\])}\s*({.*})\s*({.*})\s*({.*})\s*({.*})\s*({.*})
+Room Picture Must Be 7:1 Aspect Ratio
 
-{[10***][5][5][1][1][Room Name]}
+Still not implemented/Road Map:
 
-{1lorem ipsum}
+Room Website/Contact Information
 
-{2lorem ipsum}
+More Places for Photos
 
-{3lorem ipsum}
+{(\[.*?\])\s*(\[.*?\])\s*(\[.*?\])\s*(\[.*?\])\s*(\[.*?\])\s*(\[.*?\])\s*(\[.*?\])\s*(\[.*?\])}\s*({.*})\s*({.*})\s*({.*})\s*({.*})\s*({.*})
 
-{4lorem ipsum}
+{[10***][5][5][5517 Santa Monica Boulevard, (Entrance from the back alley), Los Angeles, CA 90038][1][Red Giant][2-6][$59.50-$36.50]}
 
-{5lorem ipsum}
+{All your life, the Pink Pyramid has stood as a testament to the ancients who built it and the civilization that once stood. Your elders have told you stories about the treasure that lies within, though none who have ventured after it have ever come back the same. As a child you dreamed of being the first to find The Red Giant, the most valuable ruby in the world. Now, you, and your crack team of experts, stand at the mouth of the tomb that will either give you what you've always wanted or doom you for eternity... How far are you willing to go to find The Red Giant!}
+
+{The props and enviroment were awesome!}
+
+{The puzzles were pretty simple scavenger type!}
+
+{Service was awesome!}
+
+{Overall Experience was Awesome!}
