@@ -34,7 +34,7 @@
 
 
 <body>
-	<img class='roomimage1' src="roomimage.jpg" width="100%" height="472" alt=""/>
+	<img class='roomimage' src="roomimage.jpg" width="100%" height="472" alt=""/>
 	<div clas = "rating">
 	<h1 class="Room">Red Giant</h1>
 <h4 class="by">by</h6>
@@ -55,15 +55,15 @@
 			break;
 		case 4:
 			echo '<h2 class = "company">Trapped!</h2>';
-			echo '<img src=""Images/Logos/trapped.svg"" alt=""/>" class = "logo" height=150 alt=""/>';
+			echo '<img src=""Images/Logos/trapped.svg"" class = "logo" height=150 alt=""/>';
 			break;
 		case 5:
 			echo '<h2 class = "company">Evil Genius</h2>';
-			echo '<img src="Images/Logos/EvilGenius.png" alt=""/>" class = "logo" height=150 alt=""/>';
+			echo '<img src="Images/Logos/EvilGenius.png" class = "logo" height=150 alt=""/>';
 			break;
 		case 6:
 			echo '<h2 class = "company">Cross Roads</h2>';
-			echo '<img src="Images/Logos/CrossRoads_Logo_color.png" alt=""/>" class = "logo" height=150 alt=""/>';
+			echo '<img src="Images/Logos/CrossRoads_Logo_color.png"  class = "logo" height=150 alt=""/>';
 			break;
 		case 7:
 			echo '<h2 class = "company">Puzzle Workshop</h2>';
