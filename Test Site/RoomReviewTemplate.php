@@ -144,7 +144,31 @@
 	<p class="intro">
 	
 	<?php
-	echo "<i>".$market."</i>";
+	echo $market;
+	?>
+	</p>
+<h3 class = "Heading">Immersion</h3>
+	<p class = "scene" id = "text">
+	<?php
+	echo $production;
+	?>
+	</p>
+<h3 class = "Heading">Puzzles</h3>
+	<p class = "puzzles" id = "text">
+	<?php
+	echo $puzzles;
+	?>
+	</p>
+<h3 class = "Heading">Experience</h3>
+	<p class = "exp" id = "text">
+	<?php
+	echo $experience;
+	?>
+	</p>
+<h3 class = "Heading">Summary</h3>
+	<p class = "summary" id = "text">
+	<?php
+	echo $summary;
 	?>
 	</p>
 </div>	

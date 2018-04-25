@@ -110,6 +110,16 @@ body{
 	color:white;
 	text-shadow: 2px 2px 10px black;
 }
+.Heading{
+	position: relative;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	text-align:center;
+	margin: auto;
+	text-decoration: underline;
+	color:white;
+	text-shadow: 2px 2px 10px black;
+}
 
 
 .intro{
@@ -118,8 +128,16 @@ body{
 	max-width: 1024px;
 	padding-top: 0px;
 	margin: auto;
+	font-style: italic;
 }
 
+#text{
+	position:relative;
+	text-align: justify;
+	max-width: 1024px;
+	padding-top: 0px;
+	margin: auto;
+}
 
 
 
