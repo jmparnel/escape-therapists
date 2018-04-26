@@ -141,7 +141,7 @@
 
 <div class="AfterRating">
   <h3 class = "firstHeading">About the Room</h3>
-	<p class="intro">
+	<p class="intro" id = 'text'>
 	
 	<?php
 	echo $market;
