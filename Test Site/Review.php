@@ -82,7 +82,50 @@
 	
 	?>
 
-
+<?php
+		switch($rating){
+			case '1':
+				echo '<img class = "ratnum" src = "https://escapetherapists.com/wp-content/uploads/2018/04/1.png" alt = "1"/>';
+				break;
+			case '2':
+				echo '<img class = "ratnum" src = "https://escapetherapists.com/wp-content/uploads/2018/04/2.png" alt = "2"/>';
+				break;
+			case '3':
+				echo '<img class = "ratnum" src = "https://escapetherapists.com/wp-content/uploads/2018/04/3.png" alt = "3"/>';
+				break;
+			case '4':
+				echo '<img class = "ratnum" src = "https://escapetherapists.com/wp-content/uploads/2018/04/4.png" alt = "4"/>';
+				break;
+			case '5':
+				echo '<img class = "ratnum" src = "https://escapetherapists.com/wp-content/uploads/2018/04/5.png" alt = "5"/>';
+				break;
+			case '6':
+				echo '<img class = "ratnum" src = "https://escapetherapists.com/wp-content/uploads/2018/04/6.png" alt = "6"/>';
+				break;
+			case '7':
+				echo '<img class = "ratnum" src = "https://escapetherapists.com/wp-content/uploads/2018/04/7.png" alt = "7"/>';
+				break;
+			case '8':
+				echo '<img class = "ratnum" src = "https://escapetherapists.com/wp-content/uploads/2018/04/8.png" alt = "8"/>';
+				break;
+			case '9':
+				echo '<img class = "ratnum" src = "https://escapetherapists.com/wp-content/uploads/2018/04/9.png" alt = "9"/>';
+				break;
+			case '10':
+				echo '<img class = "ratnum" src = "https://escapetherapists.com/wp-content/uploads/2018/04/10.png" alt = "10"/>';
+				break;
+			case '10*':
+				echo '<img class = "ratnum" src = "https://escapetherapists.com/wp-content/uploads/2018/04/10_.png" alt = "10*"/>';
+				break;
+			case '10**':
+				echo '<img class = "ratnum" src = "https://escapetherapists.com/wp-content/uploads/2018/04/10__.png" alt = "10**"/>';
+				break;
+			case '10***':
+				echo '<img class = "ratnum" src = "https://escapetherapists.com/wp-content/uploads/2018/04/10___.png" alt = "10***"/>';
+				break;
+					
+		}
+		?>
 <p class="diff">
   Difficulty:
   <?php
