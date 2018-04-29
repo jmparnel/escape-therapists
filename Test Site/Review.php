@@ -7,14 +7,6 @@
 
 <!doctype html>
 <html>
-<head>
-<meta charset="utf-8">
-<title>Room Review</title>
-<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/Review.css" />
-<link rel="stylesheet" href="Review.css">
-<style type="text/css">
-</style>
-</head>
 <?php 
 	
 	$rating = get_field('rating');
@@ -33,6 +25,17 @@
 	$summary = get_field('summary');
 	$mainimg = get_field('main_image');
 	?>
+
+<head>
+<meta charset="utf-8">
+	<meta property="og:title" content="<?php echo $room ?> Review"/>
+	<meta property="og:image" content="https://escapetherapists.com/wp-content/uploads/2018/04/RTWhiteLogo.png"/>
+<title><?php echo $room ?> Review</title>
+<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/Review.css" />
+<link rel="stylesheet" href="Review.css">
+<style type="text/css">
+</style>
+</head>
 
 
 <body>
